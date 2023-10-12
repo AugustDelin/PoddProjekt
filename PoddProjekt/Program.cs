@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace PoddProjekt
 {
-    internal static class Program
+    internal abstract class Program
     {
         /// <summary>
         /// The main entry point for the application.
